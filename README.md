@@ -4,3 +4,5 @@ Redesign the website for King Sukh Guest House with the goal of creating a visua
 Existing webiste: https://www.kingsukhguesthouse.com/
 
 Redesign website: https://kingssukhguesthouse.netlify.app/
+
+Mockup link: https://drive.google.com/drive/folders/1XHfQSOnskzpoPnJu7Y9CBKOtlxFgYdyg?usp=sharing
